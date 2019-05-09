@@ -1,0 +1,67 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .imge{
+      border: 5px solid grey;
+      border-bottom: none;
+      border-top: none;
+      margin: 0% 18%;
+      width: 25%;
+  }
+  .naew{
+      float: right;
+      margin: -35% 33%;
+
+  }
+  .nev1{
+ color: #d3361a;
+ font-size: 30px
+  }
+  .nev2{
+    color: #d3361a;
+     }
+     .nev3{
+        color: #d3361a;
+        text-decoration: line-through;
+     }
+   #button{
+      padding: 13px 80px;
+      background-color: #f2849e;
+      color: white;
+      font-size: 3vh; 
+      border: none
+  }
+  #button:hover {
+    background-color: #ec3862;
+    cursor: pointer; 
+    color: white;
+  }
+  .nawe1{
+    border-top:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 150px;
+  }
+  .star{
+    position: absolute;
+    margin: 0%;
+  }
+  
